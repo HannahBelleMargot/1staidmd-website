@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1staidmd.com.au/sitemap.xml
