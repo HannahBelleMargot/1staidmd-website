@@ -47,7 +47,7 @@ const faqs = [
   },
   {
     q: 'Do you offer concession pricing?',
-    a: 'Yes. BCC and Pension Card holders receive a $20 discount on most courses. Valid ID must be presented on the day.',
+    a: 'Yes. HCC and Pension Card holders receive a $20 discount on most courses. Valid ID must be presented on the day.',
   },
 ];
 

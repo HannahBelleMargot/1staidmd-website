@@ -262,7 +262,7 @@ export default function BookingForm() {
             <div className="space-y-3">
               <label className="flex items-center gap-3 font-body text-sm text-white/80">
                 <input type="checkbox" {...register('concession')} className="h-4 w-4 accent-brand-red" />
-                Concession card holder (BCC/Pension)
+                Concession card holder (HCC/Pension)
               </label>
               <label className="flex items-center gap-3 font-body text-sm text-white/80">
                 <input type="checkbox" {...register('returning_student')} className="h-4 w-4 accent-brand-red" />
